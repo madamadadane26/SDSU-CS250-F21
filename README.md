@@ -1,4 +1,4 @@
-# SDSU-CS250
+# SDSU-CS250-F21
 Software Design Specification
 Software Development Plan for Mountain Lion Detection System
 
