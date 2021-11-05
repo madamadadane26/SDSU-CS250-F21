@@ -6,4 +6,8 @@ CS-250-Group-5: Jonathan Trinh, Christopher Diep, Jasmine Nguyen, Simon Rofaeel
 
 
 Group meeting: 11/5 Friday
-d
+
+Jonathan Trihn: Refining Attributes and Operations
+Christopher Diep: Making test cases
+Jasmine Nguyen: Refining documentation
+Simon Rofaeel: Refning Attributes and Operations
