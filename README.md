@@ -10,4 +10,4 @@ Group meeting: 11/5 Friday
 Jonathan Trihn: Refining Attributes and Operations
 Christopher Diep: Making test cases
 Jasmine Nguyen: Refining documentation
-Simon Rofaeel: Refning Attributes and Operations
+Simon Rofaeel: Refining Attributes and Operations
